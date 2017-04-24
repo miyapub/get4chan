@@ -1,0 +1,25 @@
+{
+  "name": "get4chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyapub/get4chan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyapub/get4chan/issues"
+  },
+  "homepage": "https://github.com/miyapub/get4chan#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "hasha": "^2.2.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.81.0"
+  }
+}
